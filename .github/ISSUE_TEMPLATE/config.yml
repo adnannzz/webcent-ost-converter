@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security problem
+    url: https://webcents.in
+    about: Please email Info@webcents.in privately instead of opening a public issue.
+  - name: Account questions
+    url: https://webcents.in
+    about: Questions about accounts go to Info@webcents.in.

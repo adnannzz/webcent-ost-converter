@@ -1,0 +1,51 @@
+OST CONVERTER FREE - END USER LICENSE AGREEMENT
+
+DRAFT TEMPLATE: have a lawyer review this text before release.
+
+Last updated: 4 October 2026
+
+This agreement is between you and Webcent Solutions ("we", "us") and covers the Webcent OST Converter Free software ("the Software").
+By installing or using the Software you accept these terms. If you do not accept them, do not install or use it.
+
+1. LICENSE
+We grant you a personal, non-exclusive, non-transferable licence to install and use the Software, free of charge, on up
+to two devices that you own or control, for as long as you comply with this agreement. You can open and preview files
+without an account. Converting files needs a free account, created by signing in with your email address.
+
+2. NO PAYMENT, NO PROMISE OF CONTINUATION
+The Software and the account are free. We may change, limit, charge for, or stop offering the account or future
+versions of the Software; if we do, we will give notice in the Software or on our website. Files you already converted
+are yours and are not affected.
+
+3. YOUR DATA
+The Software reads the Outlook data files (OST or PST) you choose and writes converted copies where you choose. Mail
+content is processed on your computer only and is never uploaded to us. You are responsible for having the right to
+convert the files you open, for keeping backups, and for checking the results. See the Privacy Policy for the
+limited account information the Software exchanges with our account server.
+
+4. RESTRICTIONS
+You may not (a) copy, sell, rent or sublicense the Software, (b) reverse engineer it except where the law allows it
+despite this restriction, (c) remove or bypass account checks or usage limits, (d) create accounts by automated means
+or with email addresses you do not control, or (e) use the Software to access data you are not authorised to access.
+
+5. THIRD-PARTY COMPONENTS
+The Software includes open-source and third-party components under their own licences, listed in
+THIRD-PARTY-NOTICES.txt. Those licences apply to those components.
+
+6. NO WARRANTY
+The Software is provided "as is". Outlook data files are complex and sometimes damaged; we do not promise that every
+item can be read or converted, and the Software reports items it could not convert. To the extent the law allows, we
+disclaim all implied warranties, including merchantability and fitness for a particular purpose.
+
+7. LIMIT OF LIABILITY
+To the extent the law allows, we are not liable for indirect or consequential loss, or for loss of data, profit or
+business. Because the Software is free, our total liability for any claim is limited to INR 1,000. Nothing here limits
+liability that cannot be limited by law.
+
+8. UPDATES AND TERMINATION
+The Software may download updates. We may end this licence or close an account if you break these terms; you may end it
+at any time by uninstalling the Software and asking us to delete your account. Sections 3-7 survive termination.
+
+9. GENERAL
+These terms are governed by the laws of India, and the courts of New Delhi have jurisdiction, unless your
+local consumer law says otherwise. Contact: Info@webcents.in, B-25, Abufazal Enclave - 2, New Delhi-110025, India.

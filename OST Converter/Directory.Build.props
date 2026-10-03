@@ -1,0 +1,13 @@
+<Project>
+  <!--
+    Single place for the product identity and version. The installer script (tools/release.ps1) reads these values,
+    so changing a name here changes it everywhere: file properties, installer, shortcuts.
+  -->
+  <PropertyGroup>
+    <Version>1.0.0</Version>
+    <Product>Webcent OST Converter</Product>
+    <Company>Webcent Solutions</Company>
+    <Copyright>Copyright (c) 2026 Webcent Solutions</Copyright>
+    <Authors>Webcent Solutions</Authors>
+  </PropertyGroup>
+</Project>

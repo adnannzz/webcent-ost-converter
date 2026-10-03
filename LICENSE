@@ -1,0 +1,48 @@
+Webcent OST Converter - Source-Available Licence
+
+Copyright (c) 2026 Webcent Solutions. All rights reserved.
+
+This repository is published so that customers, researchers and developers can read, audit and learn from the source code of
+Webcent OST Converter Free. It is NOT open-source software, and no open-source licence is granted.
+
+1. WHAT YOU MAY DO
+   You may, free of charge:
+   (a) view and read the source code;
+   (b) clone the repository and build the software on your own computer to evaluate it, to study how it works, or to
+       carry out a security review;
+   (c) report problems and suggest improvements through the project's issue tracker or by email.
+
+2. WHAT YOU MAY NOT DO without written permission from Webcent Solutions
+   (a) copy, modify, publish, distribute, sublicense, rent, lease or sell the source code, a build of it, or any substantial
+       part of it, whether on its own or as part of another product or service;
+   (b) use the source code or a build of it for commercial purposes, including offering conversion services to others;
+   (c) remove, disable or work around account sign-in or usage checks, or distribute a build in which they
+       have been removed or altered;
+   (d) use the name "Webcent", the product names "Webcent OST Converter" and "Webcent OST Converter Free", the logo, or any
+       file in assets/brand to identify any product or service other than the official ones;
+   (e) use the software to access data you are not authorised to access.
+
+3. TRADEMARKS AND BRAND
+   The names and the logo are the property of Webcent Solutions. This licence grants no rights in them beyond referring to
+   the official software accurately.
+
+4. THE COMPILED APPLICATION
+   Installing and using the compiled Webcent OST Converter Free application is governed by the End-User Licence Agreement in
+   OST Converter Free/docs/EULA.txt, not by this file.
+
+5. THIRD-PARTY COMPONENTS
+   The software uses third-party components under their own licences, listed in OST Converter Free/THIRD-PARTY-NOTICES.txt.
+   Those licences apply to those components and are not changed by this file.
+
+6. NO WARRANTY
+   THE SOURCE CODE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL WEBCENT SOLUTIONS BE LIABLE FOR
+   ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOURCE CODE OR ITS USE.
+
+7. CONTRIBUTIONS
+   Contributions are governed by CONTRIBUTING.md.
+
+8. TERMINATION
+   Any breach of this licence ends the permissions in section 1 immediately.
+
+Questions or requests for permission: Info@webcents.in

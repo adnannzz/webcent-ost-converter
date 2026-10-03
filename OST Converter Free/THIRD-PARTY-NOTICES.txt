@@ -1,0 +1,21 @@
+﻿Webcent OST Converter Free - third-party notices
+
+The application uses the following components. Each is used under its own licence.
+
+MimeKit - MIT licence - Copyright (c) .NET Foundation and Contributors (Jeffrey Stedfast)
+BouncyCastle.Cryptography - MIT licence - Copyright (c) The Legion of the Bouncy Castle Inc.
+CommunityToolkit.Mvvm - MIT licence - Copyright (c) .NET Foundation and Contributors
+Velopack - MIT licence - Copyright (c) Velopack Ltd. and contributors
+QuestPDF - QuestPDF Community License. Free for organisations with less than US$1,000,000 annual gross revenue;
+  larger organisations need a commercial licence from QuestPDF (https://www.questpdf.com/license/). The product owner is
+  responsible for confirming which licence applies before distribution.
+
+File-format knowledge: the Outlook PST/OST format is documented by Microsoft in [MS-PST], [MS-OXMSG], [MS-CFB] and
+related open specifications. The byte-substitution tables used for the "compressible encryption" setting and the
+dictionary used to decompress RTF bodies were taken from the public documentation and source of the libyal/libpff
+and libfmapi projects (LGPL-3.0+). Only these constant tables and format descriptions are used; no libpff code is
+linked into the application.
+
+Full licence texts of the MIT-licensed components are available in their NuGet packages and at the project sites
+listed above.
+

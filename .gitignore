@@ -1,0 +1,41 @@
+# ---- Build output -------------------------------------------------------------------------------------
+bin/
+obj/
+artifacts/
+Releases/
+publish/
+TestResults/
+*.nupkg
+*.snupkg
+
+# ---- IDE and local tool state ------------------------------------------------------------------------
+.vs/
+.idea/
+*.user
+*.suo
+*.rsuser
+
+# ---- Private: never publish ---------------------------------------------------------------------------
+# Secrets and signing material
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.snk
+*.key
+*.pem
+
+# Real mail: no Outlook data files and no databases, ever
+*.ost
+*.pst
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+
+# ---- Misc ----------------------------------------------------------------------------------------------
+node_modules/
+*.log
+Thumbs.db
+.DS_Store

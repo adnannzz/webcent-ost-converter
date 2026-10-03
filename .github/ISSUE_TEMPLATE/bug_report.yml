@@ -1,0 +1,43 @@
+name: Bug report
+description: Something did not work as expected
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting. **Please do not attach real OST/PST files or paste text from real mail.**
+        For security problems, email Info@webcents.in instead of opening a public issue (see SECURITY.md).
+  - type: input
+    id: version
+    attributes:
+      label: App version
+      description: Shown at the bottom right of the window.
+      placeholder: "1.0.0"
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version
+      placeholder: "Windows 11 23H2"
+  - type: dropdown
+    id: format
+    attributes:
+      label: Output format
+      options: [PST, EML, MBOX, MSG, PDF, HTML, CSV, Not applicable]
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+  - type: textarea
+    id: log
+    attributes:
+      label: Log or error text
+      description: The conversion log, or the report from %LOCALAPPDATA%\OST Converter\logs. These contain no message content, but please check before posting.
+      render: text

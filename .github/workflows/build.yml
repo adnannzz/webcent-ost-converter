@@ -1,0 +1,22 @@
+name: build
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x
+
+      - name: Test the conversion engine
+        run: dotnet test "OST Converter/OstConverter.Engine.sln" -c Release --nologo
+
+      - name: Test the app and account client
+        run: dotnet test "OST Converter Free/OstConverterFree.sln" -c Release --nologo
